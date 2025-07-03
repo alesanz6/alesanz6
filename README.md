@@ -21,6 +21,8 @@ Siempre aprendiendo: Porque en este mundo, el que no evoluciona, se queda obsole
 ## 🎯 Buscando oportunidades
 Estoy en búsqueda de mi primer puesto profesional como desarrollador. Si tu empresa necesita a alguien con ganas de comerse el mundo (y escribir código limpio), ¡hablemos!
 
+## Linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-sanz-antunez-aa104b319)
 <!--
 **alesanz6/alesanz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
