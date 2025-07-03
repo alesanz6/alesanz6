@@ -18,7 +18,7 @@ Siempre aprendiendo: Porque en este mundo, el que no evoluciona, se queda obsole
 💪 Proactivo: Si no sé algo, lo aprendo<br>
 🤝 Colaborativo: Creo que los mejores proyectos se hacen en equipo<br>
 
-## **🎯 Buscando oportunidades
+## 🎯 Buscando oportunidades
 Estoy en búsqueda de mi primer puesto profesional como desarrollador. Si tu empresa necesita a alguien con ganas de comerse el mundo (y escribir código limpio), ¡hablemos!
 
 <!--
